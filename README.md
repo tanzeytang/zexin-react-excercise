@@ -1,4 +1,4 @@
-# HomeWork. Great work, keep going.
+# React practice project, keep going.
 
 This project is a react project practice, which use Node.js  framework to demonstrate how server-side response requset from client-side.
 

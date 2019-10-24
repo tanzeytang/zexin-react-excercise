@@ -22,7 +22,7 @@ This project is a react project practice, which use Node.js  framework to demons
 
 ### Example
 
-![example](https://recordit.co/4jtyBZugic)
+![example](http://g.recordit.co/MAQ1locEd2.gif)
 
 ## Have A Great Day
 
